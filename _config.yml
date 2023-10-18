@@ -1,0 +1,11 @@
+# Site settings
+title: "Anna M M Scaife"
+email: anna.scaife@manchester.ac.uk
+description: "homepage"
+baseurl: ""
+url: "http://as595.github.io"
+twitter_username: radastrat
+github_username:  as595
+
+# Build settings
+theme: minima
