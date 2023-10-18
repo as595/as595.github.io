@@ -1,11 +1,8 @@
 # Site settings
 title: "Anna M M Scaife"
-email: anna.scaife@manchester.ac.uk
-description: "homepage"
-baseurl: ""
-url: "http://as595.github.io"
-twitter_username: radastrat
-github_username:  as595
+author: Anna Scaife
+  name: as595
+  email: anna.scaife@manchester.ac.uk
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
