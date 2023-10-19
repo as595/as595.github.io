@@ -1,5 +1,5 @@
 # Site settings
-title: "Home"
+title: Home
 author: Anna Scaife
 name: as595
 email: anna.scaife@manchester.ac.uk
@@ -12,7 +12,6 @@ description: >
   results) and in your feed.xml site description.
 
 # Build settings
-
 theme: minima
 
 plugins:
