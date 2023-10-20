@@ -1,4 +1,8 @@
 
-# under construction
+---
+layout: home
+title: Under Construction
+---
+
 
 blah blah blah
