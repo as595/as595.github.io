@@ -1,2 +1,6 @@
+---
+layout: page
+title: Research
+permalink: /about/
+---
 
-#### Research
