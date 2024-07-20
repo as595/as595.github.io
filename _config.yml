@@ -8,7 +8,9 @@ logo: /assets/img/anna_scaife_nature.jpeg
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Artificial intelligence for Astrophysics. Mainly deep-learning. Foundation models, Bayesian-ness, data-driven. Fuelled by coffee and sourdough. Current cocktail of choice: Manhattan. 
+  Artificial intelligence for Astrophysics. Mainly deep-learning. Foundation models, 
+  Bayesian-ness, data-driven. Fuelled by coffee and sourdough. 
+  Current cocktail of choice: Manhattan. 
 
 # Build settings:
 theme: minima
