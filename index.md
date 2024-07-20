@@ -3,7 +3,7 @@ layout: home
 title: Under Construction
 ---
 
-<img align="left" src="/assets/img/anna_scaife_nature_whitespace.png" width="300px">
+<a href="https://www.nature.com/nature-index/news/six-researchers-who-are-shaping-the-future-of-artificial-intelligence"><img align="left" src="/assets/img/anna_scaife_nature_whitespace.png" width="300px"></a>
 
 I am Professor of Radio Astronomy at the Jodrell Bank Centre for Astrophysics (JBCA) and one of the five inaugural Turing AI Fellows of the [Alan Turing Institute](https://www.turing.ac.uk).
 
