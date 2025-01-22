@@ -28,6 +28,7 @@ header_pages:
   - publications.md
   - research.md
   - teaching.md
+  - writing.md
 
 # Set to `true` to show excerpts on the homepage.
 #
