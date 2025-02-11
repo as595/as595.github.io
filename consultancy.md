@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientific Consultancy
+title: consultancy
 permalink: /consultancy/
 ---
 
