@@ -5,6 +5,7 @@ title: Under Construction
 
 <a href="https://www.nature.com/nature-index/news/six-researchers-who-are-shaping-the-future-of-artificial-intelligence" rel="Image credit: Nature"><img align="left" src="/assets/img/anna_scaife_nature_whitespace.png" width="300px"></a>
 
+
 I am Professor of Radio Astronomy at the [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/about/) and one of the five inaugural Turing AI Fellows of the [Alan Turing Institute](https://www.turing.ac.uk).
 
 My research specialises in the development of novel AI solutions for modern astrophysics, with a focus on data-intensive radio astronomy. In particular I am interested in extracting well-calibrated posterior estimates from data-driven Bayesian deep-learning models, group-equivariant deep-learning and symmetries, and learning multi-purpose representations from large volumes of unlabelled data through self-supervised approaches (foundation models). 
